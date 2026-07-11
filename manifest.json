@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+"icons": {
+  "128": "icon.png"
+},
+  "name": "Kayo PiP Force",
+  "version": "1.0",
+  "description": "Forces Picture-in-Picture mode on Kayo Sports",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_title": "Trigger Kayo PiP"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
