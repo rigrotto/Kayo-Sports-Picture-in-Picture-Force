@@ -1,4 +1,5 @@
 # Kayo Sports Picture-in-Picture Force
+<img src="icon.png" alt="ClipFlowLogo" width="128">
 
 A lightweight Google Chrome extension that forces native Picture-in-Picture (PiP) mode on Kayo Sports, bypassing player restrictions.
 
